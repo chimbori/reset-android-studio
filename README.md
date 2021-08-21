@@ -21,3 +21,9 @@ just go ahead and run it.
 
 I assume you have all your important source code under version control anyway, so if this deletes
 something you wish it did not delete, you should be able to revert it from your source control.
+
+### Are there any other options?
+
+No, because when things go wrong, it’s usually best to clear everything and re-build. This way, you
+spend less time, and you don’t need to worry about the right set of flags or config knobs you need
+to twiddle.
